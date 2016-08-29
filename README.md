@@ -1,2 +1,2 @@
 # hello-world
-1st Player
+The Eulogized
